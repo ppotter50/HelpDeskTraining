@@ -1,8 +1,10 @@
 ## CAEN Hotline Summer Training
 
-You can use the [editor on GitHub](https://github.com/ppotter50/HotlineTraining/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to the CAEN Hotline! This site will serve as a introduction to and training for your duties at the CAEN Hotline.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The CAEN Hotline currently serves as the front line of IT service at the College of Engineering. We are the first contact for people experiencing errors or having issues with CAEN services. Our job is to help these people as best we can. This can either mean handling the issue yourself or relaying the issue to one of the departments in CAEN that can better handle the issue. In this training you should learn how to both troubleshoot an issue and attempt to fix it yourself and evaluate whether an issue is outside of the scope of your responsibilities and should be relayed to a more specialized team.
+
+You are coming to the Hotline at a very interesting time in its life cycle. We are currently redesigning the Hotline. Its responsibilities and role at the university will be changing while you are here. This means the aforementioned "scope of your responsibilities" will be changing. While these changes are not yet well defined, you can expect that you will be responsible for many more technical issues and will become more involved with the backend for many of the services CAEN provides.
 
 ### Markdown
 
