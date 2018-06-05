@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## CAEN Hotline Summer Training
 
 You can use the [editor on GitHub](https://github.com/ppotter50/HotlineTraining/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
