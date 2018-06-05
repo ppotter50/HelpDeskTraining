@@ -20,6 +20,25 @@ Does this mean we expect you to search the documentation for answers to question
 
 [The CAEN Knowledge Base](https://caenfaq.engin.umich.edu/)
 
-This is a public source of information that CAEN has published detailing a great deal of the services CAEN provides. This is the most valuble resource at your disposal and should be the first then you consult when you have any questions.
+This is a public source of information that CAEN has published detailing a great deal of the services CAEN provides. This is the most valuble resource at your disposal and should be the first thing you consult when you have any questions.
 
 _Note: Since this is a public site, you can send links to this site to customers to help explain things to the customer._
+
+[The CAEN Homepage](https://caen.engin.umich.edu)
+
+In the drop-down menus on the top the the CAEN homepage there is more information on the services we provide. Much of this is a rehashing of the information in the Knowledge Base but there are some details presented here that may not be in the Knowledge Base. This should be your second consultation when trying to solve an issue you do not currently know how to fix.
+
+Important links to note on this page:
+- Under "About" there is a link that reads "Departmental IT Support Staff," this provides a list of the departmental IT contacts for all of the major departments in the College of Engineering
+- Under "Help & Support" on the left hand side there is a link to the CAEN "Service Status" page, this will provide you with an up-to-date list of any outages or degraded services CAEN is currently aware of
+- Under the same section is a link to "News & Announcements," here is where you can see information about all of the major changes coming to CAEN. This will often be a great place to refer people when they are confused about or unaware of a change in CAENs operations
+
+_Note: Since this is a public site, you can send links to this site to customers to help explain things to the customer._
+
+
+
+
+
+
+
+
