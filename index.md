@@ -8,7 +8,7 @@ You are coming to the Hotline at a very interesting time in its life cycle. We a
 
 Without further adeu, let's get into it.
 
-### Documentation
+<details><summary>### Documentation<summary><p>
 
 Currently CAEN provides a great deal of documentation that is intended to explain the services we provide. Since it is likely that you do not know all of this documentation, you should spend a significant amount of time in your early employment at the Hotline reading this documentation and becoming very familiar with it. Questions that can be answered with-in this documentation are 100% **your responsibility**. It will be expected that you can answer these questions without refering to the full-time staff.
 
@@ -33,7 +33,7 @@ Important links to note on this page:
 - Under "Help & Support" on the left hand side there is a link to the CAEN "Service Status" page, this will provide you with an up-to-date list of any outages or degraded services CAEN is currently aware of
 - Under the same section is a link to "News & Announcements," here is where you can see information about all of the major changes coming to CAEN. This will often be a great place to refer people when they are confused about or unaware of a change in CAENs operations
 
-_Note: Since this is a public site, you can send links to this site to customers to help explain things to the customer._
+_Note: Since this is a public site, you can send links to this site to customers to help explain things to the customer._<p><details>
 
 
 
