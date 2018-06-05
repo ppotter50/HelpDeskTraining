@@ -6,34 +6,18 @@ The CAEN Hotline currently serves as the front line of IT service at the College
 
 You are coming to the Hotline at a very interesting time in its life cycle. We are currently redesigning the Hotline. Its responsibilities and role at the university will be changing while you are here. This means the aforementioned "scope of your responsibilities" will be changing. While these changes are not yet well defined, you can expect that you will be responsible for many more technical issues and will become more involved with the backend for many of the services CAEN provides.
 
-### Markdown
+Without further adeu, let's get into it.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Documentation
 
-```markdown
-Syntax highlighted code block
+Currently CAEN provides a great deal of documentation that is intended to explain the services we provide. Since it is likely that you do not know all of this documentation, you should spend a significant amount of time in your early employment at the Hotline reading this documentation and becoming very familiar with it. Questions that can be answered with-in this documentation are 100% **your responsibility**. It will be expected that you can answer these questions without refering to the full-time staff.
 
-# Header 1
-## Header 2
-### Header 3
+Does this mean we expect you to have the documentation memorized? Well kind of, eventually, but initially no it does not.
+Does this mean we expect you to search the documentation for answers to questions you don't think you have the answer to? Yes, absolutely it does. Anytime you don't know the answer to a question, take a minute and search the documentation for an answer. You may feel as though you are making the customer wait but that is okay. The amount of time it takes you to search through the documentation is much shorter than the amount of time it will take for one of the full-time teams to get to the issue and set aside time to address it.
 
-- Bulleted
-- List
+There are three main sources of documentation:
 
-1. Numbered
-2. List
+[The CAEN Knowledge Base](https://caenfaq.engin.umich.edu/)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ppotter50/HotlineTraining/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This is a public source of information that CAEN has published detailing a great deal of the services CAEN provides. This is the most valuble resource at your disposal and should be the first then you consult when you have any questions.
+_Note: Since this is a public site, you can send links to this site to customers to help explain things to the customer._
