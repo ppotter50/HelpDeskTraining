@@ -9,7 +9,7 @@ You are coming to the Hotline at a very interesting time in its life cycle. We a
 Without further adeu, let's get into it.
 
 
-<summary><strong>Documentation</strong></summary>
+<details><summary><strong>Documentation</strong></summary>
 
 <p>Currently CAEN provides a great deal of documentation that is intended to explain the services we provide. Since it is likely that you do not know all of this documentation, you should spend a significant amount of time in your early employment at the Hotline reading this documentation and becoming very familiar with it. Questions that can be answered with-in this documentation are 100% <strong>your responsibility</strong>. It will be expected that you can answer these questions without refering to the full-time staff.</p>
 
@@ -36,13 +36,13 @@ Without further adeu, let's get into it.
 
 <p><em>Note: Since this is a public site, you can send links to this site to customers to help explain things to the customer.</em></p>
 
-<p><a href='https://webservices.itcs.umich.edu/mediawiki/hotline/index.php/Main_Page'>Hotline Wiki</a>
+<p><a href='https://webservices.itcs.umich.edu/mediawiki/hotline/index.php/Main_Page'>Hotline Wiki</a></p>
   
 <p>This is the Hotline's internal documentation written for students, by students (mostly). This documentation is old and infrequently updated, so take caution when referencing this documentation. If you can find the information elsewhere it is recommended that you rely on that information rather than that provided in the Wiki.</p>
 
 <p>The Wiki is still a great resource for referencing Hotline policies and procedures. Any time you are questioning the steps to opening the Hotline, or how to work the phones (suprisingly complicated), or how to open a new CAEN account or other such issues consulting the Hotline Wiki should be the first step. If you look hard enough there is even a comprehensive guide to performing a spinning hook kick.</p>
 
-<p><em>Note: Since this is an internal site you will not be able to provide customers links to these pages.</em></p>
+<p><em>Note: Since this is an internal site you will not be able to provide customers links to these pages.</em></p></details>
 
 
 
