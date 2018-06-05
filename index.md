@@ -42,8 +42,7 @@ Without further adeu, let's get into it.
 
 <p>The Wiki is still a great resource for referencing Hotline policies and procedures. Any time you are questioning the steps to opening the Hotline, or how to work the phones (suprisingly complicated), or how to open a new CAEN account or other such issues consulting the Hotline Wiki should be the first step. If you look hard enough there is even a comprehensive guide to performing a spinning hook kick.</p>
 
-<p><em>Note: Since this is an internal site you will not be able to provide customers links to these pages.</em></p>
-</details>
+<p><em>Note: Since this is an internal site you will not be able to provide customers links to these pages.</em></p></details>
 
 
 
