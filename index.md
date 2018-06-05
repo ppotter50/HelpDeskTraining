@@ -11,30 +11,30 @@ Without further adeu, let's get into it.
 
 <details><summary> <b>Documentation</b> </summary><p>
 
-Currently CAEN provides a great deal of documentation that is intended to explain the services we provide. Since it is likely that you do not know all of this documentation, you should spend a significant amount of time in your early employment at the Hotline reading this documentation and becoming very familiar with it. Questions that can be answered with-in this documentation are 100% <b>your responsibility</b>. It will be expected that you can answer these questions without refering to the full-time staff.
+<p>Currently CAEN provides a great deal of documentation that is intended to explain the services we provide. Since it is likely that you do not know all of this documentation, you should spend a significant amount of time in your early employment at the Hotline reading this documentation and becoming very familiar with it. Questions that can be answered with-in this documentation are 100% <b>your responsibility</b>. It will be expected that you can answer these questions without refering to the full-time staff.</p>
 
-Does this mean we expect you to have the documentation memorized? Well kind of, eventually, but initially no it does not.
+<p>Does this mean we expect you to have the documentation memorized? Well kind of, eventually, but initially no it does not.</p>
 
-Does this mean we expect you to search the documentation for answers to questions you don't think you have the answer to? Yes, absolutely it does. Anytime you don't know the answer to a question, take a minute and search the documentation for an answer. You may feel as though you are making the customer wait but that is okay. The amount of time it takes you to search through the documentation is much shorter than the amount of time it will take for one of the full-time teams to get to the issue and set aside time to address it.
+<p>Does this mean we expect you to search the documentation for answers to questions you don't think you have the answer to? Yes, absolutely it does. Anytime you don't know the answer to a question, take a minute and search the documentation for an answer. You may feel as though you are making the customer wait but that is okay. The amount of time it takes you to search through the documentation is much shorter than the amount of time it will take for one of the full-time teams to get to the issue and set aside time to address it.</p>
 
 <b>There are three main sources of documentation:</b>
 
-<a href='https://caenfaq.engin.umich.edu/'>The CAEN Knowledge Base</a>
+<p><a href='https://caenfaq.engin.umich.edu/'>The CAEN Knowledge Base</a></p>
 
-This is a public source of information that CAEN has published detailing a great deal of the services CAEN provides. This is the most valuble resource at your disposal and should be the first thing you consult when you have any questions.
+<p>This is a public source of information that CAEN has published detailing a great deal of the services CAEN provides. This is the most valuble resource at your disposal and should be the first thing you consult when you have any questions.</p>
 
-<i>Note: Since this is a public site, you can send links to this site to customers to help explain things to the customer.</i>
+<p><i>Note: Since this is a public site, you can send links to this site to customers to help explain things to the customer.</i></p>
 
-<a href='https://caen.engin.umich.edu'>The CAEN Homepage</a>
+<p><a href='https://caen.engin.umich.edu'>The CAEN Homepage</a></p>
 
-In the drop-down menus on the top the the CAEN homepage there is more information on the services we provide. Much of this is a rehashing of the information in the Knowledge Base but there are some details presented here that may not be in the Knowledge Base. This should be your second consultation when trying to solve an issue you do not currently know how to fix.
+<p>In the drop-down menus on the top the the CAEN homepage there is more information on the services we provide. Much of this is a rehashing of the information in the Knowledge Base but there are some details presented here that may not be in the Knowledge Base. This should be your second consultation when trying to solve an issue you do not currently know how to fix.</p>
 
-Important links to note on this page:
+<p>Important links to note on this page:</p>
 <ul><li>Under "About" there is a link that reads "Departmental IT Support Staff," this provides a list of the departmental IT contacts for all of the major departments in the College of Engineering</li>
 <li>Under "Help & Support" on the left hand side there is a link to the CAEN "Service Status" page, this will provide you with an up-to-date list of any outages or degraded services CAEN is currently aware of</li>
 <li>Under the same section is a link to "News & Announcements," here is where you can see information about all of the major changes coming to CAEN. This will often be a great place to refer people when they are confused about or unaware of a change in CAENs operations</li></ul>
 
-<i>Note: Since this is a public site, you can send links to this site to customers to help explain things to the customer.</i>
+<p><i>Note: Since this is a public site, you can send links to this site to customers to help explain things to the customer.</i></p>
 </p></details>
 
 
