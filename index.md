@@ -8,8 +8,8 @@ You are coming to the Hotline at a very interesting time in its life cycle. We a
 
 Without further adeu, let's get into it.
 
-<script>
-<details><summary> ### Documentation </summary><p>
+
+<details><summary>**Documentation**</summary><p>
 
 Currently CAEN provides a great deal of documentation that is intended to explain the services we provide. Since it is likely that you do not know all of this documentation, you should spend a significant amount of time in your early employment at the Hotline reading this documentation and becoming very familiar with it. Questions that can be answered with-in this documentation are 100% **your responsibility**. It will be expected that you can answer these questions without refering to the full-time staff.
 
@@ -36,7 +36,6 @@ Important links to note on this page:
 
 _Note: Since this is a public site, you can send links to this site to customers to help explain things to the customer._
 </p></details>
-</script>
 
 
 
