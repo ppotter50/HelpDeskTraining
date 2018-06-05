@@ -9,7 +9,7 @@ You are coming to the Hotline at a very interesting time in its life cycle. We a
 Without further adeu, let's get into it.
 
 
-<details><summary> <b>Documentation</b> </summary>
+<details><summary><strong>Documentation</strong></summary>
 
 <p>Currently CAEN provides a great deal of documentation that is intended to explain the services we provide. Since it is likely that you do not know all of this documentation, you should spend a significant amount of time in your early employment at the Hotline reading this documentation and becoming very familiar with it. Questions that can be answered with-in this documentation are 100% <b>your responsibility</b>. It will be expected that you can answer these questions without refering to the full-time staff.</p>
 
