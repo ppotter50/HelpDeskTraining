@@ -127,30 +127,59 @@
     <summary>
         <strong>Tools</strong>
     </summary>
+    <p>
+    </p>
 </details>
 
 <details>
     <summary>
         <strong>Accounts</strong>
     </summary>
+    <p>
+        Account creation is a very common and important task you will encounter as a Hotline employee. Therefore, it is imperative that you understand how to create an account! 
+    </p>
+    <p>
+        You'll need to consult the links below for a comprehensive discussion on different account types, account creation procedures, and account validation, but here are the key steps to remember: 
+    </p>
+    <p>
+        Account Creation
+        <ul>
+            <li><strong> Student accounts must be made in-person (students must visit the Hotline), and students must bring a valid MCard when they visit.</strong> You will mostly be making student accounts during your job.</li>
+            <li>Be sure to check account eligibility. Check student class schedules on Wolverine Access (student account) or ask an FTE for proper documentation and approval (staff and visiting scholar accounts).</li>
+            <li><strong>Always</strong> remind clients that it takes up to 1-2 business days for a CAEN Account to become fully active. Sometimes new account holders are unaware of this, and it can catch them by surprise. They can check if their account is ready by logging in to any CAEN computer with their standard UM Kerberos credentials (except the CAEN computers on the upper floors of the Dude, which are usable by all students).</li>
+            <li>If a student gives you any trouble or pushback for the 1-2 day policy ("But I have a project due tonight at midnight!"), respectfully assert that we cannot guarantee the account will be ready any earlier. If you'd like, you can send a ticket or message to the Account Support team asking someone to expedite the approval (but again remind the client that there's no guarantee). Alternatively, all students can access the CAEN computers on the second and third floors of the Duderstadt Center, even without a valid CAEN account.</li>
+        </ul>
+    </p>
+    <p>
+        Account Validation
+        <ul>
+            <li> Each semester, accounts belonging to students and staff that no longer qualify for CAEN Accounts are marked for deletion. Relevant account holders are notified their accounts will be deleted via email. Sometimes accounts are marked for deletion in error (for example, a student taking a semester off UM courses to study abroad, but with intentions to return the following semester, may have their account deleted).</li>
+            <li> Clients may contact the Hotline with questions about their account, account deletion, and the account validation email.</li>
+            <li> If a client believes that their account should not be deleted, be sure to check their availability and remind them they can contest the account deletion using a link in the validation email.</li>
+        </ul>
+    </p>
+    <p>
+        <a href='https://webservices.itcs.umich.edu/mediawiki/hotline/index.php/Account_Roles_and_Eligibility'>Account Roles and Eligibility</a>: This page lists the different types of CAEN Accounts 
+    </p>
 </details>
 
 <details>
     <summary>
         <strong>Software</strong>
     </summary>
+    <p></p>
 </details>
 
 <details>
     <summary>
         <strong>Windows OS</strong>
     </summary>
+    <p></p>
 </details>
 
 <details>
     <summary>
         <strong>Linux OS</strong>
     </summary>
+    <p></p>
 </details>
-
-
