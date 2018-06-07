@@ -102,11 +102,15 @@
    </summary>
    <p>
     <a href='https://webservices.itcs.umich.edu/mediawiki/hotline/index.php/Policies_%26_Rules'>General Hotline Policies</a>
+   </p>
+   <p>
     <strong><em text-decoration="underline">It is very important that you understand and follow the policies listed in the above link!!!</em></strong>
    </p>
    <p>
     Make sure you always follow opening, closing, and on-shift procedures.  
+   </p>
 
+   <p>
     <em>That said</em>, note the following errata, policy details that are <strong>outdated or missing from the Wiki:</strong>
     <ul>
         <li>CAEN has a <a href='uofmcaen.slack.com'>Slack channel</a> that the Wiki does not mention. <strong>You are required to have this Slack channel open during your shift.</strong></li>
