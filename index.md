@@ -159,6 +159,9 @@
         </ul>
     </p>
     <p>
+        Important Links
+    </p>
+    <p>
         <a href='https://webservices.itcs.umich.edu/mediawiki/hotline/index.php/Account_Roles_and_Eligibility'>Account Roles and Eligibility</a>: This page lists the different types of CAEN Accounts and who should get what type of account. 
     </p>
     <p>
