@@ -100,6 +100,7 @@
    <summary>
      <strong>Hotline Policies</strong>
    </summary>
+   <br>
    <p>
     <a href='https://webservices.itcs.umich.edu/mediawiki/hotline/index.php/Policies_%26_Rules'>General Hotline Policies</a>
    </p>
