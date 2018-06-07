@@ -159,7 +159,13 @@
         </ul>
     </p>
     <p>
-        <a href='https://webservices.itcs.umich.edu/mediawiki/hotline/index.php/Account_Roles_and_Eligibility'>Account Roles and Eligibility</a>: This page lists the different types of CAEN Accounts 
+        <a href='https://webservices.itcs.umich.edu/mediawiki/hotline/index.php/Account_Roles_and_Eligibility'>Account Roles and Eligibility</a>: This page lists the different types of CAEN Accounts and who should get what type of account. 
+    </p>
+    <p>
+        <a href='https://webservices.itcs.umich.edu/mediawiki/hotline/index.php/Account_Creation_Procedure'>Account Creation Procedure</a>: How to create each type of account!
+    </p>
+    <p>
+        <a href='https://webservices.itcs.umich.edu/mediawiki/hotline/index.php/Account_Validation'>Account Validation</a>: Overview of the validation process. The section "Re-Validating Accounts" is most relevant to what work you might encounter at the Hotline.
     </p>
 </details>
 
