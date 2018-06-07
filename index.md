@@ -99,7 +99,7 @@
 <details>
    <summary>
      <strong>Hotline Policies</strong>
-   <summary>
+   </summary>
    <p>
     <a href='https://webservices.itcs.umich.edu/mediawiki/hotline/index.php/Policies_%26_Rules'>General Hotline Policies</a>
     <strong><em text-decoration="underline">It is very important that you understand and follow the policies listed in the above link!!!</em></strong>
