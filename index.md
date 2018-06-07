@@ -113,9 +113,9 @@
    <p>
     <em>That said</em>, note the following errata, policy details that are <strong>outdated or missing from the Wiki:</strong>
     <ul>
-        <li>CAEN has a <a href='uofmcaen.slack.com'>Slack channel</a> that the Wiki does not mention. <strong>You are required to have this Slack channel open during your shift.</strong></li>
+        <li>CAEN has a <a href='https://uofmcaen.slack.com'>Slack channel</a> that the Wiki does not mention. <strong>You are required to have this Slack channel open during your shift.</strong></li>
         <li>Notes are no longer taken at Hotline Meetings.</li>
-        <li>Hotline meetings have been on hiatus in recent semesters. Please consult an FTE re: scheduling meetings, whether there are regular weekly meetings, and other special meetings. <strong>Attendance at all Hotline meetings is mandatory. You must inform an FTE if you cannot attend.</li>
+        <li>Hotline meetings have been on hiatus in recent semesters. Please consult an FTE re: scheduling meetings, whether there are regular weekly meetings, and other special meetings. <strong>Attendance at all Hotline meetings is mandatory. You must inform an FTE if you cannot attend.</strong></li>
         <li>The "Google Talk client" is Google Hangouts. It is not strictly required you have it open during your shift, but it is strongly recommended. It's often the best and fastest way to communicate with your FTEs (and for them to reach you and send you important info/links), and it's useful for sharing dank memes with your fellow Hotline colleagues.
     </ul>
 
