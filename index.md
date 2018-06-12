@@ -200,4 +200,10 @@
     <p>
         If you want/need it: <a href='https://www-uxsup.csx.cam.ac.uk/pub/doc/suse/suse9.0/userguide-9.0/ch24s04.html'>Basic Linux Commands</a>. There are many, many resources on Linux out there. Use them if you need them!
     </p>
+`   <p>
+        <a href='https://webservices.itcs.umich.edu/mediawiki/hotline/index.php/Redot'>Linux Redot</a> (good to know!)
+    </p>
+    <p>
+        <a href='https://webservices.itcs.umich.edu/mediawiki/hotline/index.php/If_Redot_Doesn%27t_Fix_Linux_Problems%2C_What_Can_I_Do%3F'>If Redot Doesn't Work</a>
+    </p>
 </details>
