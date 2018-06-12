@@ -128,21 +128,24 @@
     </summary>
     <p>
         Be familiar with the various tools listed in this section. You will them in most (if not all) of your shifts.
+    <ul>
+        <li>
+            <a href='https://webservices.itcs.umich.edu/mediawiki/hotline/index.php/Java_Account_Tool_%28JAcT%29'>JAcT (Java Account Tool)</a>: This tool enables easy access to account information for UM students and faculty (e.g. CAEN account and AFS storage status). Perhaps most importantly, JAcT allows you to make new CAEN accounts. Take special note of what to do to install or reinstall JAcT if you lose access to it (unfortunately, this tends to happen regularly).
+        </li>
+        <li>
+            <a href='https://webservices.itcs.umich.edu/mediawiki/hotline/index.php/FootPrints'>Footprints</a>: Footprints is the CAEN Ticket database. CAEN Tickets record the issues and reports CAEN receives and allow CAEN staff to communicate with relevant clients (via email). Clients can send tickets to the Hotline via email (caen@umich.edu) or you can make your own Ticket for issues brought up by clients in-person, over the phone, or in a chat. Tickets are assigned to a relevant team who can assist the client with their issue; you and other CAEN employees can edit tickets and send emails to clients via the ticket.
+        </li>
+        <li>
+            <a href='https://webservices.itcs.umich.edu/mediawiki/hotline/index.php/LiveEngage'>LiveEngage</a>: LiveEngage is the chat tool CAEN uses to communicate with clients in a live chat. 
+        </li>
+        <li>
+            <a href='https://webservices.itcs.umich.edu/mediawiki/hotline/index.php/Phones'>Phones</a>: There are a lot of buttons on the Hotline phones. Be sure to review here how each of them works. Always be calm and courteous when answering or making a phone call! Also, <em>don't forget to check <strong>voicemail</strong></em> if you're the one opening the Hotline for the day.
+        </li>
+        <li>
+            White Binders: You'll find important phone numbers, emergency contacts, info on each Footprints team, and other useful information in the White Binders scattered throughout the Hotline. You should keep one at your desk and look through it to see what information is inside. You'll likely find yourself utilizing the binder often during your Hotline career.
+        </li>
+    </ul>
     </p>
-    <p>
-        <a href='https://webservices.itcs.umich.edu/mediawiki/hotline/index.php/Java_Account_Tool_%28JAcT%29'>JAcT (Java Account Tool)</a>: This tool enables easy access to account information for UM students and faculty (e.g. CAEN account and AFS storage status). Perhaps most importantly, JAcT allows you to make new CAEN accounts. Take special note of what to do to install or reinstall JAcT if you lose access to it (unfortunately, this tends to happen regularly).
-    </p>
-    <p>
-        <a href='https://webservices.itcs.umich.edu/mediawiki/hotline/index.php/FootPrints'>Footprints</a>: Footprints is the CAEN Ticket database. CAEN Tickets record the issues and reports CAEN receives and allow CAEN staff to communicate with relevant clients (via email). Clients can send tickets to the Hotline via email (caen@umich.edu) or you can make your own Ticket for issues brought up by clients in-person, over the phone, or in a chat. Tickets are assigned to a relevant team who can assist the client with their issue; you and other CAEN employees can edit tickets and send emails to clients via the ticket.
-    </p>
-    <p>
-        <a href='https://webservices.itcs.umich.edu/mediawiki/hotline/index.php/LiveEngage'>LiveEngage</a>: LiveEngage is the chat tool CAEN uses to communicate with clients in a live chat. 
-    </p>
-    <p>
-        <a href='https://webservices.itcs.umich.edu/mediawiki/hotline/index.php/Phones'>Phones</a>: There are a lot of buttons on the Hotline phones. Be sure to review here how each of them works. Always be calm and courteous when answering or making a phone call! Also, don't forget to check voicemail if you're the one opening the Hotline for the day.
-    </p>
-    <p>
-        White Binders: You'll find important phone numbers, emergency contacts, info on each Footprints team, and other useful information in the White Binders scattered throughout the Hotline. You should keep one at your desk and look through it to see what information is inside. You'll likely find yourself utilizing the binder often during your Hotline career.</p>
 </details>
 
 <details>
@@ -215,7 +218,7 @@
     <p>
         If you want/need it: <a href='https://www-uxsup.csx.cam.ac.uk/pub/doc/suse/suse9.0/userguide-9.0/ch24s04.html'>Basic Linux Commands</a>. There are many, many resources on Linux out there. Use them if you need them!
     </p>
-`   <p>
+    <p>
         <a href='https://webservices.itcs.umich.edu/mediawiki/hotline/index.php/Redot'>Linux Redot</a> (good to know!)
     </p>
     <p>
@@ -243,4 +246,5 @@
             <a href='https://webservices.itcs.umich.edu/mediawiki/hotline/index.php/Logging_Hours'>How to Log Hours</a> (No logged hours, no pay!)
         </li>
     </ul>
+    </p>
 </details>
