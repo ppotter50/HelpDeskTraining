@@ -189,5 +189,15 @@
     <summary>
         <strong>Linux OS</strong>
     </summary>
-    <p></p>
+    <p>
+        <a href='https://en.wikipedia.org/wiki/Linux'>Linux</a> is the second of the two operating systems that CAEN supports, besides Windows. You may have encountered and/or used Linux before through Engineering courses or personal experience. As a Hotline employee, you should know basic Linux commands, how to find whether CAEN Linux supports a particular software, and how to handle common problems clients might have with CAEN Linux. 
+    </p>
+    <p> Generally, for most software issues with Linux, assign a ticket to Software Support. For more general Linux issues (problems with the general OS as opposed to a specific program), there is a UNIX and Linux Systems Team. Note well that there are a few Linux problems you may encounter that you can fix or help fix yourself. Make sure to check the link below for more details.
+    </p>
+    <p>
+        <a href='https://webservices.itcs.umich.edu/mediawiki/hotline/index.php/Linux'>Linux at the Hotline</a>
+    </p>
+    <p>
+        If you want/need it: <a href='https://www-uxsup.csx.cam.ac.uk/pub/doc/suse/suse9.0/userguide-9.0/ch24s04.html'>Basic Linux Commands</a>. There are many, many resources on Linux out there. Use them if you need them!
+    </p>
 </details>
