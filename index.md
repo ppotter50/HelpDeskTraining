@@ -130,13 +130,16 @@
         Be familiar with the various tools listed in this section. You will them in most (if not all) of your shifts.
     <ul>
         <li>
-            <a href='https://webservices.itcs.umich.edu/mediawiki/hotline/index.php/Java_Account_Tool_%28JAcT%29'>JAcT (Java Account Tool)</a>: This tool enables easy access to account information for UM students and faculty (e.g. CAEN account and AFS storage status). Perhaps most importantly, JAcT allows you to make new CAEN accounts. Take special note of what to do to install or reinstall JAcT if you lose access to it (unfortunately, this tends to happen regularly).
+            <a href='https://webservices.itcs.umich.edu/mediawiki/hotline/index.php/Java_Account_Tool_%28JAcT%29'>JAcT (Java Account Tool)</a>: This tool enables easy access to account information for UM students and faculty (e.g. CAEN account and AFS storage status). Perhaps most importantly, JAcT allows you to make new CAEN accounts (<em>see "Accounts" section below</em>). Take special note of what to do to install or reinstall JAcT if you lose access to it (unfortunately, this tends to happen regularly).
         </li>
         <li>
             <a href='https://webservices.itcs.umich.edu/mediawiki/hotline/index.php/FootPrints'>Footprints</a>: Footprints is the CAEN Ticket database. CAEN Tickets record the issues and reports CAEN receives and allow CAEN staff to communicate with relevant clients (via email). Clients can send tickets to the Hotline via email (caen@umich.edu) or you can make your own Ticket for issues brought up by clients in-person, over the phone, or in a chat. Tickets are assigned to a relevant team who can assist the client with their issue; you and other CAEN employees can edit tickets and send emails to clients via the ticket.
         </li>
         <li>
             <a href='https://webservices.itcs.umich.edu/mediawiki/hotline/index.php/LiveEngage'>LiveEngage</a>: LiveEngage is the chat tool CAEN uses to communicate with clients in a live chat. 
+        </li>
+        <li>
+            <a href='https://uofmcaen.slack.com'>CAEN Slack Channel</a>: Great way to quickly contact key staff from various CAEN teams and communicate major issues, updates, questions, announcements, etc. with individual CAEN employees or CAEN at large. 
         </li>
         <li>
             <a href='https://webservices.itcs.umich.edu/mediawiki/hotline/index.php/Phones'>Phones</a>: There are a lot of buttons on the Hotline phones. Be sure to review here how each of them works. Always be calm and courteous when answering or making a phone call! Also, <em>don't forget to check <strong>voicemail</strong></em> if you're the one opening the Hotline for the day.
@@ -193,7 +196,26 @@
     <summary>
         <strong>Software</strong>
     </summary>
-    <p></p>
+    <p>
+        There's a lot of software available on CAEN Machines. It's not uncommon for students to encounter issues accessing a particular program, find that a certain program is not available to them (due to limitations on usage defined by the license CAEN has acquired to use a program or user account restrictions). You should familiarize yourself with the links below to learn more about CAEN Software.
+        <ul>
+            <li>
+                <a href='https://caensoftware.engin.umich.edu/all'>CAEN Software Listing</a>: All software available on CAEN Machines. Note that certain software may only be available on one of CAEN's two OSes (i.e., only on Windows CAEN or only on Linux CAEN)
+            </li>
+            <li>
+                <a href='https://appsanywhere.engin.umich.edu/'>Apps Anywhere</a>: Lists all Windows CAEN software. Useful to access if you need to test or otherwise use any Windows CAEN software.
+            </li>
+            <li>
+                <a href='http://caenfaq.engin.umich.edu/clse'>CAEN Lab Software Environment (CLSE)</a>: Learn more about general CAEN Software here.
+            </li>
+            <li>
+                <a href='http://caenfaq.engin.umich.edu/license-restrictions'>License Restrictions</a>: Learn more about licenses.
+            </li>
+            <li>
+                <a href='https://docs.google.com/a/umich.edu/forms/d/e/1FAIpQLSfGzgB7nuchNchMM3QNf2STnkVRbSJmzvcYdMW_h8TMSEhqQg/viewform'>Software Request Form</a>: Sometimes a client needs software that is either not normally available on CAEN or that their account status prevents them from accessing. If they need special access to or installation of a certain software, they can request it by filling out this form.
+            </li>
+        </ul>
+    </p>
 </details>
 
 <details>
@@ -233,6 +255,9 @@
         Additional information you should know that doesn't really fit in the above categories:
     
     <ul>
+        <li>
+            <em><strong>Good pages to bookmark</strong></em> and have handy to go on your shift include links to the tools listed in the "Tools" section of this document, links to the Phone and JAcT wiki pages, the Software Request Form, and any other page(s) you find yourself accessing frequently.
+        </li>
         <li>
             <a href='https://webservices.itcs.umich.edu/mediawiki/hotline/index.php/What_We_Handle'>What CAEN Does (and Does Not) Handle</a> (These lists are NOT comprehensive!)
         </li>
