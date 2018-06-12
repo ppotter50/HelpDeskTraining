@@ -1,17 +1,17 @@
 <h1>
-  CAEN Hotline Summer Training
+  CAEN Help Desk Summer Training
 </h1>
 
 <p>
-  Welcome to the CAEN Hotline! This site will serve as a introduction to and training for your duties at the CAEN Hotline.
+  Welcome to the CAEN Help Desk! This site will serve as a introduction to and training for your duties at the CAEN Help Desk.
 </p>
 
 <p>
-  The CAEN Hotline currently serves as the front line of IT service at the College of Engineering. We are the first contact for people experiencing errors or having issues with CAEN services. Our job is to help these people as best we can. This can either mean handling the issue yourself or relaying the issue to one of the departments in CAEN that can better handle the issue. In this training you should learn how to both troubleshoot an issue and attempt to fix it yourself and evaluate whether an issue is outside of the scope of your responsibilities and should be relayed to a more specialized team.
+  The CAEN Help Desk currently serves as the front line of IT service at the College of Engineering. We are the first contact for people experiencing errors or having issues with CAEN services. Our job is to help these people as best we can. This can either mean handling the issue yourself or relaying the issue to one of the departments in CAEN that can better handle the issue. In this training you should learn how to both troubleshoot an issue and attempt to fix it yourself and evaluate whether an issue is outside of the scope of your responsibilities and should be relayed to a more specialized team.
 </p>
 
 <p>
-   You are coming to the Hotline at a very interesting time in its life cycle. We are currently redesigning the Hotline. Its responsibilities and role at the university will be changing while you are here. This means the aforementioned "scope of your responsibilities" will be changing. While these changes are not yet well defined, you can expect that you will be responsible for many more technical issues and will become more involved with the backend for many of the services CAEN provides.
+   You are coming to the Help Desk at a very interesting time in its life cycle. We are currently redesigning the Help Desk. Its responsibilities and role at the university will be changing while you are here. This means the aforementioned "scope of your responsibilities" will be changing. While these changes are not yet well defined, you can expect that you will be responsible for many more technical issues and will become more involved with the backend for many of the services CAEN provides.
 </p>
 
 <p>
@@ -25,7 +25,7 @@
   </summary>
 
   <p>
-    Currently CAEN provides a great deal of documentation that is intended to explain the services we provide. Since it is likely that you do not know all of this documentation, you should spend a significant amount of time in your early employment at the Hotline reading this documentation and becoming very familiar with it. Questions that can be answered within this documentation are 100% <strong>your responsibility</strong>. It will be expected that you can answer these questions without refering to the full-time staff.
+    Currently CAEN provides a great deal of documentation that is intended to explain the services we provide. Since it is likely that you do not know all of this documentation, you should spend a significant amount of time in your early employment at the Help Desk reading this documentation and becoming very familiar with it. Questions that can be answered within this documentation are 100% <strong>your responsibility</strong>. It will be expected that you can answer these questions without refering to the full-time staff.
   </p>
 
   <p>
@@ -80,15 +80,15 @@
   </p>
 
   <p>
-    <a href='https://webservices.itcs.umich.edu/mediawiki/hotline/index.php/Main_Page'>Hotline Wiki</a>
+    <a href='https://webservices.itcs.umich.edu/mediawiki/hotline/index.php/Main_Page'>Help Desk Wiki</a>
   </p>
   
   <p>
-    This is the Hotline's internal documentation written for students, by students (mostly). This documentation is old and infrequently updated, so take caution when referencing this documentation. If you can find the information elsewhere it is recommended that you rely on that information rather than that provided in the Wiki.
+    This is the Help Desk's internal documentation written for students, by students (mostly). This documentation is old and infrequently updated, so take caution when referencing this documentation. If you can find the information elsewhere it is recommended that you rely on that information rather than that provided in the Wiki.
   </p>
 
   <p>
-    The Wiki is still a great resource for referencing Hotline policies and procedures. Any time you are questioning the steps to opening the Hotline, or how to work the phones (suprisingly complicated), or how to open a new CAEN account or other such issues consulting the Hotline Wiki should be the first step. If you look hard enough there is even a comprehensive guide to performing a spinning hook kick.
+    The Wiki is still a great resource for referencing Help Desk policies and procedures. Any time you are questioning the steps to opening the Help Desk, or how to work the phones (suprisingly complicated), or how to open a new CAEN account or other such issues consulting the Help Desk Wiki should be the first step. If you look hard enough there is even a comprehensive guide to performing a spinning hook kick.
   </p>
 
   <p>
@@ -98,10 +98,10 @@
 
 <details>
    <summary>
-     <strong>Hotline Policies</strong>
+     <strong>Help Desk Policies</strong>
    </summary>
    <p>
-    <a href='https://webservices.itcs.umich.edu/mediawiki/hotline/index.php/Policies_%26_Rules'>General Hotline Policies</a>
+    <a href='https://webservices.itcs.umich.edu/mediawiki/hotline/index.php/Policies_%26_Rules'>General Help Desk Policies</a>
    </p>
    <p>
     <strong><em text-decoration="underline">It is very important that you understand and follow the policies listed in the above link!!!</em></strong>
@@ -114,9 +114,9 @@
     <em>That said</em>, note the following errata, policy details that are <strong>outdated or missing from the Wiki:</strong>
     <ul>
         <li>CAEN has a <a href='https://uofmcaen.slack.com'>Slack channel</a> that the Wiki does not mention. <strong>You are required to have this Slack channel open during your shift.</strong></li>
-        <li>Notes are no longer taken at Hotline Meetings.</li>
-        <li>Hotline meetings have been on hiatus in recent semesters. Please consult an FTE re: scheduling meetings, whether there are regular weekly meetings, and other special meetings. <strong>Attendance at all Hotline meetings is mandatory. You must inform an FTE if you cannot attend.</strong></li>
-        <li>The "Google Talk client" is Google Hangouts. It is not strictly required you have it open during your shift, but it is strongly recommended. It's often the best and fastest way to communicate with your FTEs (and for them to reach you and send you important info/links), and it's useful for sharing dank memes with your fellow Hotline colleagues.</li>
+        <li>Notes are no longer taken at Help Desk Meetings.</li>
+        <li>Help Desk meetings have been on hiatus in recent semesters. Please consult an FTE re: scheduling meetings, whether there are regular weekly meetings, and other special meetings. <strong>Attendance at all Help Desk meetings is mandatory. You must inform an FTE if you cannot attend.</strong></li>
+        <li>The "Google Talk client" is Google Hangouts. It is not strictly required you have it open during your shift, but it is strongly recommended. It's often the best and fastest way to communicate with your FTEs (and for them to reach you and send you important info/links), and it's useful for sharing dank memes with your fellow Help Desk colleagues.</li>
     </ul>
 
    </p>
@@ -133,7 +133,7 @@
             <a href='https://webservices.itcs.umich.edu/mediawiki/hotline/index.php/Java_Account_Tool_%28JAcT%29'>JAcT (Java Account Tool)</a>: This tool enables easy access to account information for UM students and faculty (e.g. CAEN account and AFS storage status). Perhaps most importantly, JAcT allows you to make new CAEN accounts (<em>see "Accounts" section below</em>). Take special note of what to do to install or reinstall JAcT if you lose access to it (unfortunately, this tends to happen regularly).
         </li>
         <li>
-            <a href='https://webservices.itcs.umich.edu/mediawiki/hotline/index.php/FootPrints'>Footprints</a>: Footprints is the CAEN Ticket database. CAEN Tickets record the issues and reports CAEN receives and allow CAEN staff to communicate with relevant clients (via email). Clients can send tickets to the Hotline via email (caen@umich.edu) or you can make your own Ticket for issues brought up by clients in-person, over the phone, or in a chat. Tickets are assigned to a relevant team who can assist the client with their issue; you and other CAEN employees can edit tickets and send emails to clients via the ticket.
+            <a href='https://webservices.itcs.umich.edu/mediawiki/hotline/index.php/FootPrints'>Footprints</a>: Footprints is the CAEN Ticket database. CAEN Tickets record the issues and reports CAEN receives and allow CAEN staff to communicate with relevant clients (via email). Clients can send tickets to the Help Desk via email (caen@umich.edu) or you can make your own Ticket for issues brought up by clients in-person, over the phone, or in a chat. Tickets are assigned to a relevant team who can assist the client with their issue; you and other CAEN employees can edit tickets and send emails to clients via the ticket.
         </li>
         <li>
             <a href='https://webservices.itcs.umich.edu/mediawiki/hotline/index.php/LiveEngage'>LiveEngage</a>: LiveEngage is the chat tool CAEN uses to communicate with clients in a live chat. 
@@ -142,10 +142,10 @@
             <a href='https://uofmcaen.slack.com'>CAEN Slack Channel</a>: Great way to quickly contact key staff from various CAEN teams and communicate major issues, updates, questions, announcements, etc. with individual CAEN employees or CAEN at large. 
         </li>
         <li>
-            <a href='https://webservices.itcs.umich.edu/mediawiki/hotline/index.php/Phones'>Phones</a>: There are a lot of buttons on the Hotline phones. Be sure to review here how each of them works. Always be calm and courteous when answering or making a phone call! Also, <em>don't forget to check <strong>voicemail</strong></em> if you're the one opening the Hotline for the day.
+            <a href='https://webservices.itcs.umich.edu/mediawiki/hotline/index.php/Phones'>Phones</a>: There are a lot of buttons on the Help Desk phones. Be sure to review here how each of them works. Always be calm and courteous when answering or making a phone call! Also, <em>don't forget to check <strong>voicemail</strong></em> if you're the one opening the Help Desk for the day.
         </li>
         <li>
-            White Binders: You'll find important phone numbers, emergency contacts, info on each Footprints team, and other useful information in the White Binders scattered throughout the Hotline. You should keep one at your desk and look through it to see what information is inside. You'll likely find yourself utilizing the binder often during your Hotline career.
+            White Binders: You'll find important phone numbers, emergency contacts, info on each Footprints team, and other useful information in the White Binders scattered throughout the Help Desk. You should keep one at your desk and look through it to see what information is inside. You'll likely find yourself utilizing the binder often during your Help Desk career.
         </li>
     </ul>
     </p>
@@ -156,7 +156,7 @@
         <strong>Accounts</strong>
     </summary>
     <p>
-        Account creation is a very common and important task you will encounter as a Hotline employee. Therefore, it is imperative that you understand how to create an account! 
+        Account creation is a very common and important task you will encounter as a Help Desk employee. Therefore, it is imperative that you understand how to create an account! 
     </p>
     <p>
         You'll need to consult the links below for a comprehensive discussion on different account types, account creation procedures, and account validation, but here are the key steps to remember: 
@@ -164,7 +164,7 @@
     <p>
         Account Creation
         <ul>
-            <li><strong> Student accounts must be made in-person (students must visit the Hotline), and students must bring a valid MCard when they visit.</strong> You will mostly be making student accounts during your job.</li>
+            <li><strong> Student accounts must be made in-person (students must visit the Help Desk), and students must bring a valid MCard when they visit.</strong> You will mostly be making student accounts during your job.</li>
             <li>Be sure to check account eligibility. Check student class schedules on Wolverine Access (student account) or ask an FTE for proper documentation and approval (staff and visiting scholar accounts).</li>
             <li><strong>Always</strong> remind clients that it takes up to 1-2 business days for a CAEN Account to become fully active. Sometimes new account holders are unaware of this, and it can catch them by surprise. They can check if their account is ready by logging in to any CAEN computer with their standard UM Kerberos credentials (except the CAEN computers on the upper floors of the Dude, which are usable by all students).</li>
             <li>If a student gives you any trouble or pushback for the 1-2 day policy ("But I have a project due tonight at midnight!"), respectfully assert that we cannot guarantee the account will be ready any earlier. If you'd like, you can send a ticket or message to the Account Support team asking someone to expedite the approval (but again remind the client that there's no guarantee). Alternatively, all students can access the CAEN computers on the second and third floors of the Duderstadt Center, even without a valid CAEN account.</li>
@@ -174,7 +174,7 @@
         Account Validation
         <ul>
             <li> Each semester, accounts belonging to students and staff that no longer qualify for CAEN Accounts are marked for deletion. Relevant account holders are notified their accounts will be deleted via email. Sometimes accounts are marked for deletion in error (for example, a student taking a semester off UM courses to study abroad, but with intentions to return the following semester, may have their account deleted).</li>
-            <li> Clients may contact the Hotline with questions about their account, account deletion, and the account validation email.</li>
+            <li> Clients may contact the Help Desk with questions about their account, account deletion, and the account validation email.</li>
             <li> If a client believes that their account should not be deleted, be sure to check their availability and remind them they can contest the account deletion using a link in the validation email.</li>
         </ul>
     </p>
@@ -188,7 +188,7 @@
         <a href='https://webservices.itcs.umich.edu/mediawiki/hotline/index.php/Account_Creation_Procedure'>Account Creation Procedure</a>: How to create each type of account!
     </p>
     <p>
-        <a href='https://webservices.itcs.umich.edu/mediawiki/hotline/index.php/Account_Validation'>Account Validation</a>: Overview of the validation process. The section "Re-Validating Accounts" is most relevant to what work you might encounter at the Hotline.
+        <a href='https://webservices.itcs.umich.edu/mediawiki/hotline/index.php/Account_Validation'>Account Validation</a>: Overview of the validation process. The section "Re-Validating Accounts" is most relevant to what work you might encounter at the Help Desk.
     </p>
 </details>
 
@@ -230,12 +230,12 @@
         <strong>Linux OS</strong>
     </summary>
     <p>
-        <a href='https://en.wikipedia.org/wiki/Linux'>Linux</a> is the second of the two operating systems that CAEN supports, besides Windows. You may have encountered and/or used Linux before through Engineering courses or personal experience. As a Hotline employee, you should know basic Linux commands, how to find whether CAEN Linux supports a particular software, and how to handle common problems clients might have with CAEN Linux. 
+        <a href='https://en.wikipedia.org/wiki/Linux'>Linux</a> is the second of the two operating systems that CAEN supports, besides Windows. You may have encountered and/or used Linux before through Engineering courses or personal experience. As a Help Desk employee, you should know basic Linux commands, how to find whether CAEN Linux supports a particular software, and how to handle common problems clients might have with CAEN Linux. 
     </p>
     <p> Generally, for most software issues with Linux, assign a ticket to Software Support. For more general Linux issues (problems with the general OS as opposed to a specific program), there is a UNIX and Linux Systems Team. Note well that there are a few Linux problems you may encounter that you can fix or help fix yourself. Make sure to check the link below for more details.
     </p>
     <p>
-        <a href='https://webservices.itcs.umich.edu/mediawiki/hotline/index.php/Linux'>Linux at the Hotline</a>
+        <a href='https://webservices.itcs.umich.edu/mediawiki/hotline/index.php/Linux'>Linux at the Help Desk</a>
     </p>
     <p>
         If you want/need it: <a href='https://www-uxsup.csx.cam.ac.uk/pub/doc/suse/suse9.0/userguide-9.0/ch24s04.html'>Basic Linux Commands</a>. There are many, many resources on Linux out there. Use them if you need them!
