@@ -273,5 +273,4 @@
             <a href='https://webservices.itcs.umich.edu/mediawiki/hotline/index.php/Logging_Hours'>How to Log Hours</a> (No logged hours, no pay!)
         </li>
     </ul>
-    </p>
 </details>
