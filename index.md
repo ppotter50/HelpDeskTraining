@@ -221,7 +221,9 @@
     <summary>
         <strong>Windows OS</strong>
     </summary>
-    <p></p>
+    <p>
+        Familiarize yourself with information about Windows and AFS Directories and Storage. <a href='http://caenfaq.engin.umich.edu/storage'>You can start here.</a> 
+    </p>
 </details>
 
 <details>
@@ -235,7 +237,8 @@
     </p>
     <p>
         <a href='https://webservices.itcs.umich.edu/mediawiki/hotline/index.php/Linux'>Linux at the Help Desk</a>
-    </p>
+    <
+p>
     <p>
         If you want/need it: <a href='https://www-uxsup.csx.cam.ac.uk/pub/doc/suse/suse9.0/userguide-9.0/ch24s04.html'>Basic Linux Commands</a>. There are many, many resources on Linux out there. Use them if you need them!
     </p>
