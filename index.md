@@ -252,7 +252,7 @@
     </summary>
     <p>
         Additional information you should know that doesn't really fit in the above categories:
-    
+    </p>
     <ul>
         <li>
             <em><strong>Good pages to bookmark</strong></em> and have handy to go on your shift include links to the tools listed in the "Tools" section of this document, links to the Phone and JAcT wiki pages, the Software Request Form, and any other page(s) you find yourself accessing frequently.
@@ -262,6 +262,9 @@
         </li>
         <li>
             Students looking for a CAEN Computer to use can use the computers on the second and third floors of the Duderstadt Center, even without a CAEN account. All other CAEN computers are only open to clients with valid CAEN accounts.
+        </li>
+        <li>
+            The Apple AirPlay password is "appletv1" This should not be public information and should only be given to faculty and instructors. Do not just give this to anybody.
         </li>
         <li>
             <a href='https://webservices.itcs.umich.edu/mediawiki/hotline/index.php/GroundWorks'>GroundWorks</a> ("Hi, I need to print a poster. . .")
