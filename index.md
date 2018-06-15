@@ -138,7 +138,7 @@
             <a href='https://webservices.itcs.umich.edu/mediawiki/hotline/index.php/LiveEngage'>LiveEngage</a>: LiveEngage is the chat tool CAEN uses to communicate with clients in a live chat. 
         </li>
         <li>
-            <a href='https://uofmcaen.slack.com'>CAEN Slack Channel</a>: Great way to quickly contact key staff from various CAEN teams and communicate major issues, updates, questions, announcements, etc. with individual CAEN employees or CAEN at large. 
+            <a href='https://uofmcaen.slack.com'>CAEN Slack Channel</a>: Great way to quickly contact key staff from various CAEN teams and communicate wide-spread issues (also report a ticket, a Slack post is not a substitute for a reported ticket in the case of an outage), updates, questions, announcements, etc. with individual CAEN employees or CAEN at large. Good channels to follow include but are not limited to general, hotline, outages and random (the final is mostly for the memes). 
         </li>
         <li>
             <a href='https://webservices.itcs.umich.edu/mediawiki/hotline/index.php/Phones'>Phones</a>: There are a lot of buttons on the Help Desk phones. Be sure to review here how each of them works. Always be calm and courteous when answering or making a phone call! Also, <em>don't forget to check <strong>voicemail</strong></em> if you're the one opening the Help Desk for the day.
