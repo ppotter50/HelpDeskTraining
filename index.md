@@ -184,6 +184,9 @@
         <a href='https://webservices.itcs.umich.edu/mediawiki/hotline/index.php/Account_Roles_and_Eligibility'>Account Roles and Eligibility</a>: This page lists the different types of CAEN Accounts and who should get what type of account. 
     </p>
     <p>
+        <a href='https://caen.engin.umich.edu/accounts/eligibility/'>Account Eligibility (Public)</a>: This is a page that outlines eligibility for a CAEN account that is made available to the public. If someone is wondering if they are eligible for an account you can direct them here.
+    </p>
+    <p>
         <a href='https://webservices.itcs.umich.edu/mediawiki/hotline/index.php/Account_Creation_Procedure'>Account Creation Procedure</a>: How to create each type of account!
     </p>
     <p>
@@ -222,7 +225,10 @@
         <strong>Windows OS</strong>
     </summary>
     <p>
-        Familiarize yourself with information about Windows and AFS Directories and Storage. <a href='http://caenfaq.engin.umich.edu/storage'>You can start here.</a> 
+        Familiarize yourself with information about Windows and AFS Directories and Storage. <a href='http://caenfaq.engin.umich.edu/storage'>You can start here.</a>
+    </p>
+    <p>
+       Otherwise just know how to function inside of Windows like a capable human and you are fine for now (more may be coming later *insert ominous dissonant chords*)
     </p>
 </details>
 
@@ -237,8 +243,7 @@
     </p>
     <p>
         <a href='https://webservices.itcs.umich.edu/mediawiki/hotline/index.php/Linux'>Linux at the Help Desk</a>
-    <
-p>
+    </p>
     <p>
         If you want/need it: <a href='https://www-uxsup.csx.cam.ac.uk/pub/doc/suse/suse9.0/userguide-9.0/ch24s04.html'>Basic Linux Commands</a>. There are many, many resources on Linux out there. Use them if you need them!
     </p>
