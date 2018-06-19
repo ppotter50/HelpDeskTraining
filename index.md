@@ -7,11 +7,11 @@
 </p>
 
 <p>
-  The CAEN Help Desk currently serves as the front line of IT service at the College of Engineering. We are the first contact for people experiencing errors or having issues with CAEN services. Our job is to help these people as best we can. This can either mean handling the issue yourself or relaying the issue to one of the departments in CAEN that can better handle the issue. In this training you should learn how to both troubleshoot an issue and attempt to fix it yourself and evaluate whether an issue is outside of the scope of your responsibilities and should be relayed to a more specialized team.
+  The CAEN Help Desk currently serves as the front line of IT service at the College of Engineering. We are the first point of contact for people experiencing errors or having issues with CAEN services. Our job is to help these people as best we can. This can either mean handling the issue yourself or relaying the issue to one of the departments in CAEN that can better handle the issue. In this training you should learn how to both troubleshoot an issue and attempt to fix it yourself and evaluate whether an issue is outside of the scope of your responsibilities and should be relayed to a more specialized team.
 </p>
 
 <p>
-   You are coming to the Help Desk at a very interesting time in its life cycle. We are currently redesigning the Help Desk. Its responsibilities and role at the university will be changing while you are here. This means the aforementioned "scope of your responsibilities" will be changing. While these changes are not yet well defined, you can expect that you will be responsible for many more technical issues and will become more involved with the backend for many of the services CAEN provides.
+   You are coming to the Help Desk at a very interesting time; we are currently redesigning the Help Desk. Its responsibilities and role at the University will be changing while you are here. This means the aforementioned "scope of your responsibilities" will be changing. While these changes are not yet well defined, you can expect that you will be responsible for many more technical issues and will become more involved with the backend for many of the services CAEN provides.
 </p>
 
 <p>
