@@ -257,8 +257,8 @@
 
 <details>
     <summary><strong>Software lists</strong></summary>
-    <p><a href='win_software.md'>Test</a></p>
-    <p><a href='linux_software.md'>Test 2</a></p>
+    <p><a href='win_software.html'>Test</a></p>
+    <p><a href='linux_software.html'>Test 2</a></p>
 </details>
 
 <details>
