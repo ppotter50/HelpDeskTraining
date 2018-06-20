@@ -250,7 +250,7 @@
 </details>
 
 <details>
-    <summary>Software lists</strong>
+    <summary><strong>Software lists</strong></summary>
     <p><a href='win_software.md'>Test</a></p>
     <p><a href='linux_software.md'>Test 2</a></p>
 </details>
