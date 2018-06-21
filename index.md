@@ -1,7 +1,3 @@
-<head>
-    <link rel="stylesheet" type="text/css" href="index.css">
-</head>
-
 <h1>
   CAEN Help Desk Summer Training
 </h1>
@@ -24,7 +20,7 @@
 
 
 <details>
-  <summary style="font-size: 300%">
+  <summary style="font-size: 300%;">
     <strong>Documentation</strong>
   </summary>
 
@@ -101,7 +97,7 @@
 </details>
 
 <details>
-   <summary>
+   <summary style="font-size: 300%;">
      <strong>Help Desk Policies</strong>
    </summary>
    <p>
@@ -126,7 +122,7 @@
 </details>
 
 <details>
-    <summary>
+    <summary style="font-size: 300%;">
         <strong>Tools</strong>
     </summary>
     <p>
@@ -155,7 +151,7 @@
 </details>
 
 <details>
-    <summary>
+    <summary style="font-size: 300%;">
         <strong>Accounts</strong>
     </summary>
     <p>
@@ -199,7 +195,7 @@
 </details>
 
 <details>
-    <summary>
+    <summary style="font-size: 300%;">
         <strong>Software</strong>
     </summary>
     <p>
@@ -225,7 +221,7 @@
 </details>
 
 <details>
-    <summary>
+    <summary style="font-size: 300%;">
         <strong>Windows OS</strong>
     </summary>
     <p>
@@ -237,7 +233,7 @@
 </details>
 
 <details>
-    <summary>
+    <summary style="font-size: 300%;">
         <strong>Linux OS</strong>
     </summary>
     <p>
@@ -260,7 +256,7 @@
 </details>
 
 <details>
-    <summary>
+    <summary style="font-size: 300%;">
         <strong>General Troubleshooting</strong>
     </summary>
     <p>
@@ -469,7 +465,7 @@
 </details>
 
 <details>
-    <summary>
+    <summary style="font-size: 300%;">
         <strong>Software Troubleshooting</strong>
     </summary>
     <p>
@@ -487,7 +483,7 @@
 </details>
 
 <details>
-    <summary>
+    <summary style="font-size: 300%;">
         <strong>VDI Troubleshooting</strong>
     </summary>
     <p>Key information you should try to acquire from clients who report to us with VDI issues:
@@ -562,7 +558,7 @@
 </details>
 
 <details>
-    <summary>
+    <summary style="font-size: 300%;">
         <strong>Important Potpourri</strong>
     </summary>
     <p>
