@@ -256,7 +256,105 @@
 </details>
 
 <details>
-    <summary><strong>Software Lists</strong></summary>
+    <summary><strong>General Troubleshooting</strong></summary>
+    <p>
+        Below is a list of general information you should try to acquire when a client comes to us with a problem. You might not need all of the information below for every issue, but use good judgment and get all of the important/helpful/necessary information that you can.  
+    </p>
+    <p>
+        <strong>Technical Issues</strong>
+        <ul>
+            <li>Client's uniqname
+            <li>Client's affiliation with the University (Engineering student? Non-engineering student? Faculy? Staff? Other?)
+            <li>Time and date issue occurred/started
+            <li>What’s the issue?
+            <ul>
+                <li>Visual description
+                <li>Error messages
+                <li>Apps involved
+                <li>Has the issue happened before?
+                <li>Are there specific steps one needs to take to replicate the problem?
+                <li>What has the client done already to address the issue?
+            </ul>
+            <li>Does this happen on one machine or multiple machines?
+            <li>Are multiple users experiencing this problem?
+            <li>Was it isolated to a certain time period? Or is it still happening?
+            <li>Is the client using Windows or Linux?
+            <li>How is the client accessing CAEN?
+            <ul>
+                <li>VDI - Windows (see also VDI Troubleshooting section)
+                <ul>
+                    <li>On or off-campus?
+                    <li>Desktop App or Website?
+                    <li>Poolname? (CAEN Labs 2017, CAEN Labs 2017 On Campus, or CAEN Labs 2017 Umberto)
+                    <li>Hostname? (Have client open powershell or terminal and type ‘hostname’)
+                    <li>Server? (2fa.midesktop.it.umich.edu, midesktop.umich.edu, or caen.midesktop.it.umich.edu )
+                </ul>
+                <li>VDI - Linux (see also VDI Troubleshooting section)
+                <ul>
+                    <li>For Mac
+                    <ul>
+                        <li>What command did the client use to begin the SSH?
+                        <li>What hostname?
+                    </ul>
+                    <li>For Windows
+                    <ul>
+                        <li>What program did they use to open SSH? (PuTTY? Something else?)
+                        <li>What command did they use?
+                        <li>What hostname?
+                    </ul>
+                <li>CAEN Computer
+                <ul>
+                    <li>Hostname? (Have client open powershell or terminal and type ‘hostname’)
+                    <li>Which building and lab/room?
+                </ul>
+            </ul>
+        </ul>
+    </p>
+    <p>
+        <strong>Account Issues</strong>
+        <ul>
+            <li>Student Eligibility
+            <ul>
+                <li>coe-student Account: Students should receive this type of account if:
+                <ul>
+                    <li>They are in the College of Engineering
+                    <li>They are in LSA and study one of the following majors:
+                    <ul>
+                        <li>Computer Science
+                        <li>Applied Physics
+                        <li>Informatics
+                        <li>Geological Science (concentration in Earth System Science and Engineering)
+                        <li>Masters of Entrepreneurship
+                    </ul>
+                </ul>
+                <li>non-coe-student Account: Students should receive this type of account if they are not College of Engineering students or studying any major above, but are enrolled in an engineering course.
+            </ul>
+            <li>FTE Accounts
+            <ul>
+                <li> You’ll need to send an email to a senior student or FTE to check the client's eligibility. Get the client's:
+                <ul>
+                    <li>Name
+                    <li>Uniqname
+                    <li>Department
+                </ul>
+            </ul>
+            <li>Visiting Scholars
+            <ul>
+                <li>Need confirmation from their department’s HR (College of Engineering Unpaid Visitor Intake Form)
+                <li>An FTE needs to handle visiting scholar account request. If no FTE is available, assign a ticket to Account Support. The subject line should be "Visiting Scholar Account Request". Include the client's:
+                <ul>
+                    <li>Name
+                    <li>Uniqname
+                    <li>Department
+                    <li>Advisor
+                </ul>
+            </ul>
+        </ul>
+    </p>
+</details>
+
+<details>
+    <summary><strong>Software Troubleshooting</strong></summary>
     <p>
         Please consult the following links for information, known issues, and common problems with the software CAEN provides. These databases should come in handy for helping out customers with software you've never heard of before (and, of course, the software you have heard of or used).
     </p>
@@ -268,6 +366,44 @@
     </p>
     <p>
         <a href='linux_software.html'>Linux Software</a>
+    </p>
+</details>
+
+<details>
+    <summary><strong>VDI Troubleshooting</strong></summary>
+    <p>Key information you should try to acquire from clients who report to us with VDI issues:
+    </p>
+    <p>
+        <ul>
+            <li>Preliminary Info:</li>
+            <ul>
+                <li>Uniqname
+                <li>What date/time did the issue start/occur?
+                <li>Is the client on campus or off campus?
+                <li>Visual description of issue
+                <ul>
+                    <li>Any error messages?
+                </ul>
+                <li>Was the client using the desktop app or website?
+                <li>Which connection server? (<strong>Note</strong>: possibilities are <strong>2fa.midesktop.it.umich.edu, midesktop.umich.edu,</strong> or <strong>caen.midesktop.it.umich.edu</strong>.)
+                <li>Pool name?
+                <li>Hostname (from command line, have client run “hostname”)
+            </ul>
+            <li>Rule out a pool issue by having them try the other pool 
+            <ul>
+                <li>You must use the desktop client if you are testing on campus pool
+                <li>Have client try to connect to the Virtual Sites pool provided by ITS
+            </ul>
+            <li>Rule out a client issue by having the client check with the web client 
+            <ul>
+                <li><em>Do this for off-campus pool issues only</em>: web sessions are not allowed for on-campus, and on-campus clients won't see the option to start a web session.
+            </ul>
+            <li>For login errors:
+            <ul>
+                <li>Reset the last machine the client was on
+                <li>Confirm the client has enrolled in <a href='http://caenfaq.engin.umich.edu/duo/how-do-i-enroll-with-duo-two-factor-authentication'>Duo Mobile</a>
+            </ul>
+        </ul>
     </p>
 </details>
 
