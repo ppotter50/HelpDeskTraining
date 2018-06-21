@@ -1,5 +1,5 @@
 <h1>
-  CAEN Help Desk Summer Training
+  CAEN Help Desk Training
 </h1>
 
 <p>
@@ -565,7 +565,7 @@
     </p>
     <ul>
         <li>
-            <a href='https://webservices.itcs.umich.edu/mediawiki/hotline/index.php/Good_Pages_to_Bookmark'><em><strong>Good pages to bookmark</strong></em></a> and have handy to go on your shift include links to the tools listed in the "Tools" section of this document, links to the Phone and JAcT wiki pages, the Software Request Form, the Duo Mobile instructions page, and any other page(s) you find yourself accessing frequently.
+            <a href='https://webservices.itcs.umich.edu/mediawiki/hotline/index.php/Good_Pages_to_Bookmark'><em><strong>Good pages to bookmark</strong></em></a> and have handy to go on your shift include links to the tools listed in the "Tools" section of this document, links to the Phone and JAcT wiki pages, the Software Request Form, the Duo Mobile instructional page, and any other page(s) you find yourself accessing frequently.
         </li>
         <li>
             <a href='https://webservices.itcs.umich.edu/mediawiki/hotline/index.php/What_We_Handle'>What CAEN Does (and Does Not) Handle</a> (These lists are NOT comprehensive!)
