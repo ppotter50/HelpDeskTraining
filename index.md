@@ -1,5 +1,5 @@
 <h1>
-  CAEN Help Desk Summer Training
+  CAEN Help Desk Training
 </h1>
 
 <p>
