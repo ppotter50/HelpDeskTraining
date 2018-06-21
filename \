@@ -1,5 +1,5 @@
 <h1>
-  CAEN Help Desk Training
+  CAEN Help Desk Summer Training
 </h1>
 
 <p>
@@ -18,8 +18,9 @@
   Without further ado, let's get into it.
 </p>
 
+
 <details>
-  <summary style="font-size: 145%;">
+  <summary>
     <strong>Documentation</strong>
   </summary>
 
@@ -96,7 +97,7 @@
 </details>
 
 <details>
-   <summary style="font-size: 145%;">
+   <summary>
      <strong>Help Desk Policies</strong>
    </summary>
    <p>
@@ -121,7 +122,7 @@
 </details>
 
 <details>
-    <summary style="font-size: 145%;">
+    <summary>
         <strong>Tools</strong>
     </summary>
     <p>
@@ -137,7 +138,7 @@
             <a href='https://webservices.itcs.umich.edu/mediawiki/hotline/index.php/LiveEngage'>LiveEngage</a>: LiveEngage is the chat tool CAEN uses to communicate with clients in a live chat. 
         </li>
         <li>
-            <a href='https://uofmcaen.slack.com'>CAEN Slack Channel</a>: Great way to quickly contact key staff from various CAEN teams and communicate wide-spread issues (also report a ticket, a Slack post is not a substitute for a reported ticket in the case of an outage), updates, questions, announcements, etc. with individual CAEN employees or CAEN at large. Good channels to follow include but are not limited to general, hotline, outages and random (the final is mostly for the memes). 
+            <a href='https://uofmcaen.slack.com'>CAEN Slack Channel</a>: Great way to quickly contact key staff from various CAEN teams and communicate major issues, updates, questions, announcements, etc. with individual CAEN employees or CAEN at large. 
         </li>
         <li>
             <a href='https://webservices.itcs.umich.edu/mediawiki/hotline/index.php/Phones'>Phones</a>: There are a lot of buttons on the Help Desk phones. Be sure to review here how each of them works. Always be calm and courteous when answering or making a phone call! Also, <em>don't forget to check <strong>voicemail</strong></em> if you're the one opening the Help Desk for the day.
@@ -150,7 +151,7 @@
 </details>
 
 <details>
-    <summary style="font-size: 145%;">
+    <summary>
         <strong>Accounts</strong>
     </summary>
     <p>
@@ -183,9 +184,6 @@
         <a href='https://webservices.itcs.umich.edu/mediawiki/hotline/index.php/Account_Roles_and_Eligibility'>Account Roles and Eligibility</a>: This page lists the different types of CAEN Accounts and who should get what type of account. 
     </p>
     <p>
-        <a href='https://caen.engin.umich.edu/accounts/eligibility/'>Account Eligibility (Public)</a>: This is a page that outlines eligibility for a CAEN account that is made available to the public. If someone is wondering if they are eligible for an account you can direct them here.
-    </p>
-    <p>
         <a href='https://webservices.itcs.umich.edu/mediawiki/hotline/index.php/Account_Creation_Procedure'>Account Creation Procedure</a>: How to create each type of account!
     </p>
     <p>
@@ -194,7 +192,7 @@
 </details>
 
 <details>
-    <summary style="font-size: 145%;">
+    <summary>
         <strong>Software</strong>
     </summary>
     <p>
@@ -220,19 +218,16 @@
 </details>
 
 <details>
-    <summary style="font-size: 145%;">
+    <summary>
         <strong>Windows OS</strong>
     </summary>
     <p>
-        Familiarize yourself with information about Windows and AFS Directories and Storage. <a href='http://caenfaq.engin.umich.edu/storage'>You can start here.</a>
-    </p>
-    <p>
-       Otherwise just know how to function inside of Windows like a capable human and you are fine for now (more may be coming later *insert ominous dissonant chords*)
+        Familiarize yourself with information about Windows and AFS Directories and Storage. <a href='http://caenfaq.engin.umich.edu/storage'>You can start here.</a> 
     </p>
 </details>
 
 <details>
-    <summary style="font-size: 145%;">
+    <summary>
         <strong>Linux OS</strong>
     </summary>
     <p>
@@ -242,7 +237,8 @@
     </p>
     <p>
         <a href='https://webservices.itcs.umich.edu/mediawiki/hotline/index.php/Linux'>Linux at the Help Desk</a>
-    </p>
+    <
+p>
     <p>
         If you want/need it: <a href='https://www-uxsup.csx.cam.ac.uk/pub/doc/suse/suse9.0/userguide-9.0/ch24s04.html'>Basic Linux Commands</a>. There are many, many resources on Linux out there. Use them if you need them!
     </p>
@@ -255,309 +251,14 @@
 </details>
 
 <details>
-    <summary style="font-size: 145%;">
-        <strong>General Troubleshooting</strong>
-    </summary>
-    <p>
-        Below is a list of general information you should try to acquire when a client comes to us with a problem. You might not need all of the information below for every issue, but use good judgment and get all of the important/helpful/necessary information that you can.  
-    </p>
-    <p>
-        <strong>Technical Issues</strong>
-        <ul>
-            <li>
-                Client's uniqname
-            </li>
-            <li>
-            Client's affiliation with the University (Engineering student? Non-engineering student? Faculy? Staff? Other?)
-            </li>
-            <li>
-                Time and date issue occurred/started
-            </li>
-            <li>
-                What’s the issue?
-            </li>
-            <ul>
-                <li>
-                    Visual description
-                </li>
-                <li>
-                    Error messages
-                </li>
-                <li>
-                    Apps involved
-                </li>
-                <li>
-                    Has the issue happened before?
-                </li>
-                <li>
-                    Are there specific steps one needs to take to replicate the problem?
-                </li>
-                <li>
-                    What has the client done already to address the issue?
-                </li>
-            </ul>
-            <li>
-                Does this happen on one machine or multiple machines?
-            </li>
-            <li>
-                Are multiple users experiencing this problem?
-            </li>
-            <li>
-                Was it isolated to a certain time period? Or is it still happening?
-            </li>
-            <li>
-                Is the client using Windows or Linux?
-            </li>
-            <li>
-                How is the client accessing CAEN?
-            </li>
-            <ul>
-                <li>
-                    VDI - Windows (see also VDI Troubleshooting section)
-                </li>
-                <ul>
-                    <li>
-                        On or off-campus?
-                    </li>
-                    <li>
-                        Desktop App or Website?
-                    </li>
-                    <li>
-                        Poolname? (CAEN Labs 2017, CAEN Labs 2017 On Campus, or CAEN Labs 2017 Umberto)
-                    </li>
-                    <li>
-                        Hostname? (Have client open powershell or terminal and type ‘hostname’)
-                    </li>
-                    <li>
-                        Server? (2fa.midesktop.it.umich.edu, midesktop.umich.edu, or caen.midesktop.it.umich.edu )
-                    </li>
-                </ul>
-                <li>
-                    VDI - Linux (see also VDI Troubleshooting section)
-                </li>
-                <ul>
-                    <li>
-                        For Mac
-                    </li>
-                    <ul>
-                        <li>
-                            What command did the client use to begin the SSH?
-                        </li>
-                        <li>
-                            What hostname?
-                        </li>
-                    </ul>
-                    <li>
-                        For Windows
-                    </li>
-                    <ul>
-                        <li>
-                            What program did they use to open SSH? (PuTTY? Something else?)
-                        </li>
-                        <li>
-                            What command did they use?
-                        </li>
-                        <li>
-                            What hostname?
-                        </li>
-                    </ul>
-                </ul>
-                <li>
-                    CAEN Computer
-                </li>
-                <ul>
-                    <li>
-                        Hostname? (Have client open powershell or terminal and type ‘hostname’)
-                    </li>
-                    <li>
-                        Which building and lab/room?
-                    </li>
-                </ul>
-            </ul>
-        </ul>
-    </p>
-    <p>
-        <strong>Account Issues</strong>
-        <ul>
-            <li>
-                Student Eligibility
-            </li>
-            <ul>
-                <li>
-                    coe-student Account: Students should receive this type of account if:
-                </li>
-                <ul>
-                    <li>
-                        They are in the College of Engineering
-                    </li>
-                    <li>
-                        They are in LSA and study one of the following majors:
-                    </li>
-                    <ul>
-                        <li>
-                            Computer Science
-                        </li>
-                        <li>
-                            Applied Physics
-                        </li>
-                        <li>
-                            Informatics
-                        </li>
-                        <li>
-                            Geological Science (concentration in Earth System Science and Engineering)
-                        </li>
-                        <li>
-                            Masters of Entrepreneurship
-                        </li>
-                    </ul>
-                </ul>
-                <li>
-                    non-coe-student Account: Students should receive this type of account if they are not College of Engineering students or studying any major above, but are enrolled in an engineering course.
-                </li>
-            </ul>
-            <li>
-                FTE Accounts
-            </li>
-            <ul>
-                <li>
-                    You’ll need to send an email to a senior student or FTE to check the client's eligibility. Get the client's:
-                </li>
-                <ul>
-                    <li>
-                        Name
-                    </li>
-                    <li>
-                        Uniqname
-                    </li>
-                    <li>
-                        Department
-                    </li>
-                </ul>
-            </ul>
-            <li>
-                Visiting Scholars
-            </li>
-            <ul>
-                <li>
-                    Need confirmation from their department’s HR (College of Engineering Unpaid Visitor Intake Form)
-                </li>
-                <li>
-                    An FTE needs to handle visiting scholar account request. If no FTE is available, assign a ticket to Account Support. The subject line should be "Visiting Scholar Account Request". Include the client's:
-                </li>
-                <ul>
-                    <li>
-                        Name
-                    </li>
-                    <li>
-                        Uniqname
-                    </li>
-                    <li>
-                        Department
-                    </li>
-                    <li>
-                        Advisor
-                    </li>
-                </ul>
-            </ul>
-        </ul>
-    </p>
+    <summary>Software lists</strong>
+    <p></p>
+    <p></p>
 </details>
 
-<details>
-    <summary style="font-size: 145%;">
-        <strong>Software Troubleshooting</strong>
-    </summary>
-    <p>
-        Please consult the following links for information, known issues, and common problems with the software CAEN provides. These databases should come in handy for helping out customers with software you've never heard of before (and, of course, the software you have heard of or used).
-    </p>
-    <p>
-        <strong>If you need/want to make a note on software not currently in either list</strong>, update the relevant HTML file (or both, if the software issue/note applies to both OSes). Please keep the software lists <em>alphabetical</em>. Use HTML to format the new listing as necessary or desired. Use the extant HTML as a reference if you need it.
-    </p>
-    <p>
-        <a href='win_software.html'>Windows Software</a>
-    </p>
-    <p>
-        <a href='linux_software.html'>Linux Software</a>
-    </p>
-</details>
 
 <details>
-    <summary style="font-size: 145%;">
-        <strong>VDI Troubleshooting</strong>
-    </summary>
-    <p>Key information you should try to acquire from clients who report to us with VDI issues:
-    </p>
-    <p>
-        <ul>
-            <li>
-                Preliminary Info:
-            </li>
-            <ul>
-                <li>
-                    Uniqname
-                </li>
-                <li>
-                    What date/time did the issue start/occur?
-                </li>
-                <li>
-                    Is the client on campus or off campus?
-                </li>
-                <li>
-                    Visual description of issue
-                </li>
-                <ul>
-                    <li>
-                        Any error messages?
-                    </li>
-                </ul>
-                <li>
-                    Was the client using the desktop app or website?
-                </li>
-                <li>
-                    Which connection server? (<strong>Note</strong>: possibilities are <strong>2fa.midesktop.it.umich.edu, midesktop.umich.edu,</strong> or <strong>caen.midesktop.it.umich.edu</strong>.)              </li>
-                <li>
-                    Pool name?
-                </li>
-                <li>
-                    Hostname (from command line, have client run “hostname”)
-                </li>
-            </ul>
-            <li>
-                Rule out a pool issue by having them try the other pool
-            </li>
-            <ul>
-                <li>
-                    You must use the desktop client if you are testing on campus pool
-                </li>
-                <li>
-                    Have client try to connect to the Virtual Sites pool provided by ITS
-                </li>
-            </ul>
-            <li>
-                Rule out a client issue by having the client check with the web client
-            </li>
-            <ul>
-                <li>
-                    <em>Do this for off-campus pool issues only</em>: web sessions are not allowed for on-campus, and on-campus clients won't see the option to start a web session.
-                </li>
-            </ul>
-            <li>
-                For login errors:
-            </li>
-            <ul>
-                <li>
-                    Reset the last machine the client was on
-                </li>
-                <li>
-                    Confirm the client has enrolled in <a href='http://documentation.its.umich.edu/2fa/enroll-smartphone-or-tablet-duo'>Duo Mobile</a>
-                </li>
-            </ul>
-        </ul>
-    </p>
-</details>
-
-<details>
-    <summary style="font-size: 145%;">
+    <summary>
         <strong>Important Potpourri</strong>
     </summary>
     <p>
@@ -565,7 +266,7 @@
     </p>
     <ul>
         <li>
-            <a href='https://webservices.itcs.umich.edu/mediawiki/hotline/index.php/Good_Pages_to_Bookmark'><em><strong>Good pages to bookmark</strong></em></a> and have handy to go on your shift include links to the tools listed in the "Tools" section of this document, links to the Phone and JAcT wiki pages, the Software Request Form, the Duo Mobile instructional page, and any other page(s) you find yourself accessing frequently.
+            <em><strong>Good pages to bookmark</strong></em> and have handy to go on your shift include links to the tools listed in the "Tools" section of this document, links to the Phone and JAcT wiki pages, the Software Request Form, and any other page(s) you find yourself accessing frequently.
         </li>
         <li>
             <a href='https://webservices.itcs.umich.edu/mediawiki/hotline/index.php/What_We_Handle'>What CAEN Does (and Does Not) Handle</a> (These lists are NOT comprehensive!)
