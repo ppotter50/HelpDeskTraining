@@ -252,10 +252,11 @@
 <details>
     <summary><strong>Software Lists</strong></summary>
     <p>
-        Please consult the following links for information, known issues, and common problems with the software CAEN provides. These databases should come in handy for helping out customers with software you've never heard of before.
+        Please consult the following links for information, known issues, and common problems with the software CAEN provides. These databases should come in handy for helping out customers with software you've never heard of before (and, of course, the software you have heard of or used).
     </p>
     <p>
         <strong>If you need/want to make a note on software not currently in either list</strong>, update the relevant HTML file (or both, if the software issue/note applies to both OSes). Please keep the software lists <em>alphabetical</em>. Use HTML to format the new listing as necessary or desired. Use the extant HTML as a reference if you need it.
+    </p>
     <p>
         <a href='win_software.html'>Windows Software</a>
     </p>
