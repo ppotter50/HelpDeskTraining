@@ -258,80 +258,98 @@
 <details>
     <summary><strong>General Troubleshooting</strong></summary>
     <p>
-        Below is a list of general information you should try to acquire when a client comes to us with a problem. You might not need all of the information below for every issue, but use good judgment and get all of the information that you can.  
+        Below is a list of general information you should try to acquire when a client comes to us with a problem. You might not need all of the information below for every issue, but use good judgment and get all of the important/helpful/necessary information that you can.  
     </p>
     <p>
-        Time and date
-What’s the issue?
-Visual description
-Error messages
-Apps involved
-Has the issue happened before?
-Are there specific steps one needs to take to replicate the problem?
-What have they done already to address the issue?
-Does this happen on one machine or multiple?
-Are multiple users experiencing this problem?
-Was it isolated to a certain time period? Or is it still happening?
-Uniqname
-Affiliation with the university 
-Engineering student
-Non-engineering student
-Faculty
-Staff
-Are they using Windows or Linux?
-How are they accessing CAEN?
-VDI - Windows
-On or Off campus?
-Desktop App or Website?
-Poolname?
-CAEN Labs 2017
-CAEN Labs 2017 On Campus
-CAEN Labs 2017 Umberto
-Hostname?
-Open powershell or terminal and type ‘hostname’
-Server?
-2fa.midesktop.it.umich.edu
-midesktop.umich.edu
-caen.midesktop.it.umich.edu 
-VDI - Linux
-For Mac
-What command did they use to begin the SSH?
-What hostname?
-For Windows
-What program did they use to open SSH?
-PuTTY
-What command did they use?
-What hostname?
-CAEN Computer
-Hostname?
-Open powershell or terminal and type ‘hostname’
-Which building and lab?
-Account issues
-Students
-Eligibility
-Coe-student-account
-Engineering School
-LSA 
-Computer Science
-Applied Physics
-Informatics
-Geological Science (concentration in Earth System Science and Engineering)
-Masters of Entrepreneurship
-None-coe-student-account
-Not involved in any major above, but enrolled in an engineering course  
-FTE
-You’ll need to send an email to a senior student or FTE to check their eligibility. Get their:
-Name
-Uniqname
-Department
-Visiting Scholars
-Need confirmation from their department’s HR (College of Engineering Unpaid Visitor Intake Form)
-If no FTE is around assign a ticket to Account Support that contains
-Name
-Uniqname
-Department
-Their Advisor
-Subject: Visiting Scholar Account Request
+        <strong>Technical Issues</strong>
+        <ul>
+            <li>Client's uniqname
+            <li>Client's affiliation with the University (Engineering student? Non-engineering student? Faculy? Staff? Other?)
+            <li>Time and date issue occurred/started
+            <li>What’s the issue?
+            <ul>
+                <li>Visual description
+                <li>Error messages
+                <li>Apps involved
+                <li>Has the issue happened before?
+                <li>Are there specific steps one needs to take to replicate the problem?
+                <li>What has the client done already to address the issue?
+            </ul>
+            <li>Does this happen on one machine or multiple machines?
+            <li>Are multiple users experiencing this problem?
+            <li>Was it isolated to a certain time period? Or is it still happening?
+            <li>Is the client using Windows or Linux?
+            <li>How is the client accessing CAEN?
+            <ul>
+                <li>VDI - Windows (see also VDI Troubleshooting section)
+                <ul>
+                    <li>On or off-campus?
+                    <li>Desktop App or Website?
+                    <li>Poolname? (CAEN Labs 2017, CAEN Labs 2017 On Campus, or CAEN Labs 2017 Umberto)
+                    <li>Hostname? (Have client open powershell or terminal and type ‘hostname’)
+                    <li>Server? (2fa.midesktop.it.umich.edu, midesktop.umich.edu, or caen.midesktop.it.umich.edu )
+                </ul>
+                <li>VDI - Linux (see also VDI Troubleshooting section)
+                <ul>
+                    <li>For Mac
+                    <ul>
+                        <li>What command did the client use to begin the SSH?
+                        <li>What hostname?
+                    </ul>
+                    <li>For Windows
+                    <ul>
+                        <li>What program did they use to open SSH? (PuTTY? Something else?)
+                        <li>What command did they use?
+                        <li>What hostname?
+                    </ul>
+                <li>CAEN Computer
+                <ul>
+                    <li>Hostname? (Have client open powershell or terminal and type ‘hostname’)
+                    <li>Which building and lab/room?
+                </ul>
+            </ul>
+        </ul>
+    </p>
+    <p>
+        <strong>Account Issues</strong>
+        <ul>
+            <li>Student Eligibility
+            <ul>
+                <li>coe-student Account: Students should receive this type of account if:
+                <ul>
+                    <li>They are in the College of Engineering
+                    <li>They are in LSA and study one of the following majors:
+                    <ul>
+                        <li>Computer Science
+                        <li>Applied Physics
+                        <li>Informatics
+                        <li>Geological Science (concentration in Earth System Science and Engineering)
+                        <li>Masters of Entrepreneurship
+                    </ul>
+                </ul>
+                <li>non-coe-student Account: Students should receive this type of account if they are not College of Engineering students or studying any major above, but are enrolled in an engineering course.
+            </ul>
+            <li>FTE Accounts
+            <ul>
+                <li> You’ll need to send an email to a senior student or FTE to check the client's eligibility. Get the client's:
+                <ul>
+                    <li>Name
+                    <li>Uniqname
+                    <li>Department
+                </ul>
+            </ul>
+            <li>Visiting Scholars
+            <ul>
+                <li>Need confirmation from their department’s HR (College of Engineering Unpaid Visitor Intake Form)
+                <li>An FTE needs to handle visiting scholar account request. If no FTE is available, assign a ticket to Account Support. The subject line should be "Visiting Scholar Account Request". Include the client's:
+                <ul>
+                    <li>Name
+                    <li>Uniqname
+                    <li>Department
+                    <li>Advisor
+                </ul>
+            </ul>
+        </ul>
     </p>
 </details>
 
