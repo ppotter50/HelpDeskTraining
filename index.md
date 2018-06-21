@@ -360,6 +360,7 @@
                             What hostname?
                         </li>
                     </ul>
+                </ul>
                 <li>
                     CAEN Computer
                 </li>
