@@ -24,7 +24,7 @@
 
 
 <details>
-  <summary>
+  <summary style="font-size: 300%">
     <strong>Documentation</strong>
   </summary>
 
