@@ -18,7 +18,6 @@
   Without further ado, let's get into it.
 </p>
 
-
 <details>
   <summary style="font-size: 145%;">
     <strong>Documentation</strong>
@@ -550,7 +549,7 @@
                     Reset the last machine the client was on
                 </li>
                 <li>
-                    Confirm the client has enrolled in <a href='http://caenfaq.engin.umich.edu/duo/how-do-i-enroll-with-duo-two-factor-authentication'>Duo Mobile</a>
+                    Confirm the client has enrolled in <a href='http://documentation.its.umich.edu/2fa/enroll-smartphone-or-tablet-duo'>Duo Mobile</a>
                 </li>
             </ul>
         </ul>
@@ -566,7 +565,7 @@
     </p>
     <ul>
         <li>
-            <em><strong>Good pages to bookmark</strong></em> and have handy to go on your shift include links to the tools listed in the "Tools" section of this document, links to the Phone and JAcT wiki pages, the Software Request Form, and any other page(s) you find yourself accessing frequently.
+            <a href='https://webservices.itcs.umich.edu/mediawiki/hotline/index.php/Good_Pages_to_Bookmark'><em><strong>Good pages to bookmark</strong></em></a> and have handy to go on your shift include links to the tools listed in the "Tools" section of this document, links to the Phone and JAcT wiki pages, the Software Request Form, the Duo Mobile instructions page, and any other page(s) you find yourself accessing frequently.
         </li>
         <li>
             <a href='https://webservices.itcs.umich.edu/mediawiki/hotline/index.php/What_We_Handle'>What CAEN Does (and Does Not) Handle</a> (These lists are NOT comprehensive!)
