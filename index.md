@@ -263,49 +263,113 @@
     <p>
         <strong>Technical Issues</strong>
         <ul>
-            <li>Client's uniqname
-            <li>Client's affiliation with the University (Engineering student? Non-engineering student? Faculy? Staff? Other?)
-            <li>Time and date issue occurred/started
-            <li>What’s the issue?
+            <li>
+                Client's uniqname
+            </li>
+            <li>
+            Client's affiliation with the University (Engineering student? Non-engineering student? Faculy? Staff? Other?)
+            </li>
+            <li>
+                Time and date issue occurred/started
+            </li>
+            <li>
+                What’s the issue?
+            </li>
             <ul>
-                <li>Visual description
-                <li>Error messages
-                <li>Apps involved
-                <li>Has the issue happened before?
-                <li>Are there specific steps one needs to take to replicate the problem?
-                <li>What has the client done already to address the issue?
+                <li>
+                    Visual description
+                </li>
+                <li>
+                    Error messages
+                </li>
+                <li>
+                    Apps involved
+                </li>
+                <li>
+                    Has the issue happened before?
+                </li>
+                <li>
+                    Are there specific steps one needs to take to replicate the problem?
+                </li>
+                <li>
+                    What has the client done already to address the issue?
+                </li>
             </ul>
-            <li>Does this happen on one machine or multiple machines?
-            <li>Are multiple users experiencing this problem?
-            <li>Was it isolated to a certain time period? Or is it still happening?
-            <li>Is the client using Windows or Linux?
-            <li>How is the client accessing CAEN?
+            <li>
+                Does this happen on one machine or multiple machines?
+            </li>
+            <li>
+                Are multiple users experiencing this problem?
+            </li>
+            <li>
+                Was it isolated to a certain time period? Or is it still happening?
+            </li>
+            <li>
+                Is the client using Windows or Linux?
+            </li>
+            <li>
+                How is the client accessing CAEN?
+            </li>
             <ul>
-                <li>VDI - Windows (see also VDI Troubleshooting section)
+                <li>
+                    VDI - Windows (see also VDI Troubleshooting section)
+                </li>
                 <ul>
-                    <li>On or off-campus?
-                    <li>Desktop App or Website?
-                    <li>Poolname? (CAEN Labs 2017, CAEN Labs 2017 On Campus, or CAEN Labs 2017 Umberto)
-                    <li>Hostname? (Have client open powershell or terminal and type ‘hostname’)
-                    <li>Server? (2fa.midesktop.it.umich.edu, midesktop.umich.edu, or caen.midesktop.it.umich.edu )
+                    <li>
+                        On or off-campus?
+                    </li>
+                    <li>
+                        Desktop App or Website?
+                    </li>
+                    <li>
+                        Poolname? (CAEN Labs 2017, CAEN Labs 2017 On Campus, or CAEN Labs 2017 Umberto)
+                    </li>
+                    <li>
+                        Hostname? (Have client open powershell or terminal and type ‘hostname’)
+                    </li>
+                    <li>
+                        Server? (2fa.midesktop.it.umich.edu, midesktop.umich.edu, or caen.midesktop.it.umich.edu )
+                    </li>
                 </ul>
-                <li>VDI - Linux (see also VDI Troubleshooting section)
+                <li>
+                    VDI - Linux (see also VDI Troubleshooting section)
+                </li>
                 <ul>
-                    <li>For Mac
+                    <li>
+                        For Mac
+                    </li>
                     <ul>
-                        <li>What command did the client use to begin the SSH?
-                        <li>What hostname?
+                        <li>
+                            What command did the client use to begin the SSH?
+                        </li>
+                        <li>
+                            What hostname?
+                        </li>
                     </ul>
-                    <li>For Windows
+                    <li>
+                        For Windows
+                    </li>
                     <ul>
-                        <li>What program did they use to open SSH? (PuTTY? Something else?)
-                        <li>What command did they use?
-                        <li>What hostname?
+                        <li>
+                            What program did they use to open SSH? (PuTTY? Something else?)
+                        </li>
+                        <li>
+                            What command did they use?
+                        </li>
+                        <li>
+                            What hostname?
+                        </li>
                     </ul>
-                <li>CAEN Computer
+                <li>
+                    CAEN Computer
+                </li>
                 <ul>
-                    <li>Hostname? (Have client open powershell or terminal and type ‘hostname’)
-                    <li>Which building and lab/room?
+                    <li>
+                        Hostname? (Have client open powershell or terminal and type ‘hostname’)
+                    </li>
+                    <li>
+                        Which building and lab/room?
+                    </li>
                 </ul>
             </ul>
         </ul>
@@ -313,40 +377,84 @@
     <p>
         <strong>Account Issues</strong>
         <ul>
-            <li>Student Eligibility
+            <li>
+                Student Eligibility
+            </li>
             <ul>
-                <li>coe-student Account: Students should receive this type of account if:
+                <li>
+                    coe-student Account: Students should receive this type of account if:
+                </li>
                 <ul>
-                    <li>They are in the College of Engineering
-                    <li>They are in LSA and study one of the following majors:
+                    <li>
+                        They are in the College of Engineering
+                    </li>
+                    <li>
+                        They are in LSA and study one of the following majors:
+                    </li>
                     <ul>
-                        <li>Computer Science
-                        <li>Applied Physics
-                        <li>Informatics
-                        <li>Geological Science (concentration in Earth System Science and Engineering)
-                        <li>Masters of Entrepreneurship
+                        <li>
+                            Computer Science
+                        </li>
+                        <li>
+                            Applied Physics
+                        </li>
+                        <li>
+                            Informatics
+                        </li>
+                        <li>
+                            Geological Science (concentration in Earth System Science and Engineering)
+                        </li>
+                        <li>
+                            Masters of Entrepreneurship
+                        </li>
                     </ul>
                 </ul>
-                <li>non-coe-student Account: Students should receive this type of account if they are not College of Engineering students or studying any major above, but are enrolled in an engineering course.
+                <li>
+                    non-coe-student Account: Students should receive this type of account if they are not College of Engineering students or studying any major above, but are enrolled in an engineering course.
+                </li>
             </ul>
-            <li>FTE Accounts
+            <li>
+                FTE Accounts
+            </li>
             <ul>
-                <li> You’ll need to send an email to a senior student or FTE to check the client's eligibility. Get the client's:
+                <li>
+                    You’ll need to send an email to a senior student or FTE to check the client's eligibility. Get the client's:
+                </li>
                 <ul>
-                    <li>Name
-                    <li>Uniqname
-                    <li>Department
+                    <li>
+                        Name
+                    </li>
+                    <li>
+                        Uniqname
+                    </li>
+                    <li>
+                        Department
+                    </li>
                 </ul>
             </ul>
-            <li>Visiting Scholars
+            <li>
+                Visiting Scholars
+            </li>
             <ul>
-                <li>Need confirmation from their department’s HR (College of Engineering Unpaid Visitor Intake Form)
-                <li>An FTE needs to handle visiting scholar account request. If no FTE is available, assign a ticket to Account Support. The subject line should be "Visiting Scholar Account Request". Include the client's:
+                <li>
+                    Need confirmation from their department’s HR (College of Engineering Unpaid Visitor Intake Form)
+                </li>
+                <li>
+                    An FTE needs to handle visiting scholar account request. If no FTE is available, assign a ticket to Account Support. The subject line should be "Visiting Scholar Account Request". Include the client's:
+                </li>
                 <ul>
-                    <li>Name
-                    <li>Uniqname
-                    <li>Department
-                    <li>Advisor
+                    <li>
+                        Name
+                    </li>
+                    <li>
+                        Uniqname
+                    </li>
+                    <li>
+                        Department
+                    </li>
+                    <li>
+                        Advisor
+                    </li>
                 </ul>
             </ul>
         </ul>
@@ -375,33 +483,68 @@
     </p>
     <p>
         <ul>
-            <li>Preliminary Info:</li>
+            <li>
+                Preliminary Info:
+            </li>
             <ul>
-                <li>Uniqname
-                <li>What date/time did the issue start/occur?
-                <li>Is the client on campus or off campus?
-                <li>Visual description of issue
+                <li>
+                    Uniqname
+                </li>
+                <li>
+                    What date/time did the issue start/occur?
+                </li>
+                <li>
+                    Is the client on campus or off campus?
+                </li>
+                <li>
+                    Visual description of issue
+                </li>
                 <ul>
-                    <li>Any error messages?
+                    <li>
+                        Any error messages?
+                    </li>
                 </ul>
-                <li>Was the client using the desktop app or website?
-                <li>Which connection server? (<strong>Note</strong>: possibilities are <strong>2fa.midesktop.it.umich.edu, midesktop.umich.edu,</strong> or <strong>caen.midesktop.it.umich.edu</strong>.)
-                <li>Pool name?
-                <li>Hostname (from command line, have client run “hostname”)
+                <li>
+                    Was the client using the desktop app or website?
+                </li>
+                <li>
+                    Which connection server? (<strong>Note</strong>: possibilities are <strong>2fa.midesktop.it.umich.edu, midesktop.umich.edu,</strong> or <strong>caen.midesktop.it.umich.edu</strong>.)              </li>
+                <li>
+                    Pool name?
+                </li>
+                <li>
+                    Hostname (from command line, have client run “hostname”)
+                </li>
             </ul>
-            <li>Rule out a pool issue by having them try the other pool 
+            <li>
+                Rule out a pool issue by having them try the other pool
+            </li>
             <ul>
-                <li>You must use the desktop client if you are testing on campus pool
-                <li>Have client try to connect to the Virtual Sites pool provided by ITS
+                <li>
+                    You must use the desktop client if you are testing on campus pool
+                </li>
+                <li>
+                    Have client try to connect to the Virtual Sites pool provided by ITS
+                </li>
             </ul>
-            <li>Rule out a client issue by having the client check with the web client 
+            <li>
+                Rule out a client issue by having the client check with the web client
+            </li>
             <ul>
-                <li><em>Do this for off-campus pool issues only</em>: web sessions are not allowed for on-campus, and on-campus clients won't see the option to start a web session.
+                <li>
+                    <em>Do this for off-campus pool issues only</em>: web sessions are not allowed for on-campus, and on-campus clients won't see the option to start a web session.
+                </li>
             </ul>
-            <li>For login errors:
+            <li>
+                For login errors:
+            </li>
             <ul>
-                <li>Reset the last machine the client was on
-                <li>Confirm the client has enrolled in <a href='http://caenfaq.engin.umich.edu/duo/how-do-i-enroll-with-duo-two-factor-authentication'>Duo Mobile</a>
+                <li>
+                    Reset the last machine the client was on
+                </li>
+                <li>
+                    Confirm the client has enrolled in <a href='http://caenfaq.engin.umich.edu/duo/how-do-i-enroll-with-duo-two-factor-authentication'>Duo Mobile</a>
+                </li>
             </ul>
         </ul>
     </p>
