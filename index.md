@@ -256,7 +256,9 @@
 </details>
 
 <details>
-    <summary><strong>General Troubleshooting</strong></summary>
+    <summary>
+        <strong>General Troubleshooting</strong>
+    </summary>
     <p>
         Below is a list of general information you should try to acquire when a client comes to us with a problem. You might not need all of the information below for every issue, but use good judgment and get all of the important/helpful/necessary information that you can.  
     </p>
@@ -463,7 +465,9 @@
 </details>
 
 <details>
-    <summary><strong>Software Troubleshooting</strong></summary>
+    <summary>
+        <strong>Software Troubleshooting</strong>
+    </summary>
     <p>
         Please consult the following links for information, known issues, and common problems with the software CAEN provides. These databases should come in handy for helping out customers with software you've never heard of before (and, of course, the software you have heard of or used).
     </p>
@@ -479,7 +483,9 @@
 </details>
 
 <details>
-    <summary><strong>VDI Troubleshooting</strong></summary>
+    <summary>
+        <strong>VDI Troubleshooting</strong>
+    </summary>
     <p>Key information you should try to acquire from clients who report to us with VDI issues:
     </p>
     <p>
