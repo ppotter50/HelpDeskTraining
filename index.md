@@ -93,6 +93,18 @@
   <p>
     <em>Note: Since this is an internal site you will not be able to provide customers links to these pages.</em>
   </p>
+
+  <p>
+    One more link:
+  </p>
+
+  <p>
+    <a href='https://wiki.med.umich.edu/display/UMHSHELPDESK'>HITS Documentation</a>
+  </p>
+
+  <p>
+    This is a link to the Health Information Technology & Services (HITS) Knowledgebase. We're not sure yet how much this link will be used/how much info from this site (if any) you should know. Keep it in mind and stay tuned for more info about it!
+  </p>
 </details>
 
 <details>
