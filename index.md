@@ -343,9 +343,20 @@
                     <li>
                         Server? (2fa.midesktop.it.umich.edu, midesktop.umich.edu, or caen.midesktop.it.umich.edu )
                     </li>
+                    <li>
+                        If the issue is a software access issue
+                    </li>
+                    <ul>
+                      <li>
+                        Have the user google their IP address
+                      </li>
+                      <li>
+                        Have the user run "ipconfig" (Windows) of "ifconfig" (Linux)
+                      </li>
+                    </ul>
                 </ul>
                 <li>
-                    VDI - Linux (see also VDI Troubleshooting section)
+                    SSH - Linux (see also VDI Troubleshooting section)
                 </li>
                 <ul>
                     <li>
@@ -383,6 +394,12 @@
                     </li>
                     <li>
                         Which building and lab/room?
+                    </li>
+                    <li>
+                        Have the user google their IP address
+                    </li>
+                    <li>
+                        Have the user run "ipconfig" (Windows) of "ifconfig" (Linux)
                     </li>
                 </ul>
             </ul>
